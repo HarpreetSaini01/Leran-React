@@ -1,0 +1,1 @@
+export const HEADER_IMG_URL = "https://tse2.mm.bing.net/th?id=OIP.r4Hi50oE4H7Bhswqj3pbnQHaEy&pid=Api&P=0&h=180";
