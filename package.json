@@ -1,0 +1,29 @@
+{
+  "name": "leran-react",
+  "version": "1.0.0",
+  "description": "My First Project(Food App)",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarpreetSaini01/Leran-React.git"
+  },
+  "author": "Harpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarpreetSaini01/Leran-React/issues"
+  },
+  "homepage": "https://github.com/HarpreetSaini01/Leran-React#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
